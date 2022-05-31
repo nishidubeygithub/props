@@ -1,0 +1,2 @@
+# props
+property of modal
